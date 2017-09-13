@@ -1,0 +1,1 @@
+Custom logger that logs some information about each request it recieves. It exposes an endpoint on the server so it is easy for anyone to retieve the latest log data from the web.
